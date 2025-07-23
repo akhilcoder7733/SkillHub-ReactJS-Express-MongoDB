@@ -1,0 +1,9 @@
+{
+  "register": {
+    "title": "Create an Account",
+    "subtitle": "Start your journey with us",
+    "button": "Register",
+    "already": "Already have an account?",
+    "login": "Login"
+  }
+}

@@ -1,0 +1,29 @@
+/* Base body */
+.toast-body {
+  font-family: 'Kanit', sans-serif;
+  font-size: 0.95rem;
+}
+
+/* Light Mode Toast */
+.toast-light {
+  background-color: #ffffff !important;
+  color: #333 !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #2196f3;
+  border-radius: 10px;
+}
+
+/* Dark Mode Toast */
+.toast-dark {
+  background-color: #1f1f1f !important;
+  color: #fff !important;
+  box-shadow: 0 2px 12px rgba(255, 255, 255, 0.1);
+  border-left: 4px solid #90caf9;
+  border-radius: 10px;
+}
+
+/* Progress Bar */
+.toast-progress {
+  background: linear-gradient(90deg, #2196f3, #21cbf3) !important;
+  height: 3px !important;
+}
