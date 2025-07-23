@@ -16,7 +16,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <ThemeProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/SkillHub-ReactJS-Express-MongoDB">
         <DialogProvider>
           <AuthProvider>
             <ToastProvider>
